@@ -9,6 +9,8 @@ pymongo = "*"
 flask-login = "*"
 requests = "*"
 bs4 = "*"
+openai = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
