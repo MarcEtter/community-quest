@@ -9,7 +9,7 @@ const Chat = () => {
       <div class="relative flex items-center space-x-4">
          <div class="flex flex-col leading-tight">
             <div class="text-2xl mt-1 flex items-center">
-               <span class="text-gray-700 font-bold text-3xl mr-3"> Schedule Generator </span>
+               <span class="text-gray-700 font-bold text-3xl mr-3"> AgendaBuilder </span>
             </div>
          </div>
       </div>
